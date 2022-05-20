@@ -1,10 +1,10 @@
 # RestaurantApp
 Food ordering Angular application.
 
-### Uruchomienie projektu
-W celu uruchomienia projektu można skorzystać ze skryptu uruchamiającego na Windowskie "run-project.bat"
-lub samemu wykonać poniższe komendy:
+### Running the project
+To run the app, please run the Windows "run-project.bat" set-up script
+or execute the following commands yourself:
 
-`cd api && npm start` - pobiera potrzebne pakiety, inicjuje połączenie z bazą danych oraz nasłuchuje pod adresem: http://localhost:3000/
+`cd api && npm start` - installs the needed packages, initiates the database connection and listens on the address: http://localhost:3000/
 
-`cd frontend && npm start` - pobiera potrzebne pakiety oraz uruchamia serwer Angularowy pod adresem: http://localhost:4200/
+`cd frontend && npm start` - installs the needed packages and runs the Angular server on the address: http://localhost:4200/
