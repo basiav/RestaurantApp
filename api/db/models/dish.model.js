@@ -1,13 +1,3 @@
-// id: number;
-// name: string;
-// cuisine: string[];
-// category: string[];
-// ingredients: string[];
-// maxDailyAmount: number;
-// price: number;
-// description: string;
-// photos: string[];
-
 const mongoose = require('mongoose');
 
 const DishSchema = new mongoose.Schema({

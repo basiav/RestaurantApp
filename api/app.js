@@ -30,9 +30,7 @@ const starsRoute = require('./routes/stars');
 app.use('/stars', starsRoute);
 const authRoute = require('./routes/auth');
 app.use('/auth', authRoute);
-const privateRouteEx = require('./routes/privateRouteEx');
 const { prototype } = require('collections/listen/property-changes');
-app.use('/privateRouteEx', privateRouteEx);
 
 
 app.use(express.json())
