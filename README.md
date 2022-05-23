@@ -1,18 +1,35 @@
 # RestaurantApp
 Angular & MongoDB application for managing take away ordering.
 
-User roles:
-- Guest User - "window shopping", scrolling through the menu
-- Registered & Logged in User - add the order to the shopping trolley, review your orders 
-- Restaurant Manager - add new dishes to the menu
+## Functionalities and user roles
+- Guest User - "window shopping", scrolling through the menu, log in
+
+<img src="https://github.com/basiav/RestaurantApp/blob/main/demo/main-view.png" data-canonical-src="https://github.com/basiav/RestaurantApp/blob/main/demo/main-view.png" width="70%" />
+
+<img src="https://github.com/basiav/RestaurantApp/blob/main/demo/login-page.png" data-canonical-src="https://github.com/basiav/RestaurantApp/blob/main/demo/login-page.png" width="70%" />
+
+- Registered & Logged in User - add the order to the shopping trolley, review your orders
+
+<img src="https://github.com/basiav/RestaurantApp/blob/main/demo/dish-details.png" data-canonical-src="https://github.com/basiav/RestaurantApp/blob/main/demo/dish-details.png" width="70%" />
+
+<img src="https://github.com/basiav/RestaurantApp/blob/main/demo/dish-filters.png" data-canonical-src="https://github.com/basiav/RestaurantApp/blob/main/demo/dish-filters.png" width="70%" />
+
+<img src="https://github.com/basiav/RestaurantApp/blob/main/demo/shopping-trolley.png" data-canonical-src="https://github.com/basiav/RestaurantApp/blob/main/demo/shopping-trolley.png" width="70%" />
+
 - Admin - change users' roles
 
-### Technologies
+<img src="https://github.com/basiav/RestaurantApp/blob/main/demo/admin-panel.png" data-canonical-src="https://github.com/basiav/RestaurantApp/blob/main/demo/admin-panel.png" width="70%" />
+
+<img src="https://github.com/basiav/RestaurantApp/blob/main/demo/user-management.png" data-canonical-src="https://github.com/basiav/RestaurantApp/blob/main/demo/user-management.png" width="70%" />
+
+- Restaurant Manager - add new dishes to the menu
+
+## Technologies
 Frontend: Angular
 
 Backend: MongoDB, Mongoose
 
-### Running the project
+## Running the project
 To run the app, please run the **_"run-project.bat"_** set-up script (on a Windows machine)
 or execute the following commands yourself:
 
@@ -22,6 +39,7 @@ or execute the following commands yourself:
 
 Then navigate to: http://localhost:4200/
 
+## Demo
 
 ### Admin functionalities
 
