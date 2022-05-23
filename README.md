@@ -4,23 +4,23 @@ Angular & MongoDB application for managing takeaway ordering.
 ## Functionalities and user roles
 - Guest User - "window shopping", scrolling through the menu, log in
 
-<img src="https://github.com/basiav/RestaurantApp/blob/main/demo/main-view.png" data-canonical-src="https://github.com/basiav/RestaurantApp/blob/main/demo/main-view.png" width="70%" />
+<img src="https://github.com/basiav/RestaurantApp/blob/main/demo/main-view.png" data-canonical-src="https://github.com/basiav/RestaurantApp/blob/main/demo/main-view.png" width="80%" />
 
-<img src="https://github.com/basiav/RestaurantApp/blob/main/demo/login-page.png" data-canonical-src="https://github.com/basiav/RestaurantApp/blob/main/demo/login-page.png" width="70%" />
+<img src="https://github.com/basiav/RestaurantApp/blob/main/demo/login-page.png" data-canonical-src="https://github.com/basiav/RestaurantApp/blob/main/demo/login-page.png" width="80%" />
 
 - Registered & Logged in User - add the order to the shopping trolley, review your orders
 
-<img src="https://github.com/basiav/RestaurantApp/blob/main/demo/dish-details.png" data-canonical-src="https://github.com/basiav/RestaurantApp/blob/main/demo/dish-details.png" width="70%" />
+<img src="https://github.com/basiav/RestaurantApp/blob/main/demo/dish-details.png" data-canonical-src="https://github.com/basiav/RestaurantApp/blob/main/demo/dish-details.png" width="80%" />
 
-<img src="https://github.com/basiav/RestaurantApp/blob/main/demo/dish-filters.png" data-canonical-src="https://github.com/basiav/RestaurantApp/blob/main/demo/dish-filters.png" width="70%" />
+<img src="https://github.com/basiav/RestaurantApp/blob/main/demo/dish-filters.png" data-canonical-src="https://github.com/basiav/RestaurantApp/blob/main/demo/dish-filters.png" width="80%" />
 
-<img src="https://github.com/basiav/RestaurantApp/blob/main/demo/shopping-trolley.png" data-canonical-src="https://github.com/basiav/RestaurantApp/blob/main/demo/shopping-trolley.png" width="70%" />
+<img src="https://github.com/basiav/RestaurantApp/blob/main/demo/shopping-trolley.png" data-canonical-src="https://github.com/basiav/RestaurantApp/blob/main/demo/shopping-trolley.png" width="80%" />
 
 - Admin - change users' roles
 
-<img src="https://github.com/basiav/RestaurantApp/blob/main/demo/admin-panel.png" data-canonical-src="https://github.com/basiav/RestaurantApp/blob/main/demo/admin-panel.png" width="70%" />
+<img src="https://github.com/basiav/RestaurantApp/blob/main/demo/admin-panel.png" data-canonical-src="https://github.com/basiav/RestaurantApp/blob/main/demo/admin-panel.png" width="80%" />
 
-<img src="https://github.com/basiav/RestaurantApp/blob/main/demo/user-management.png" data-canonical-src="https://github.com/basiav/RestaurantApp/blob/main/demo/user-management.png" width="70%" />
+<img src="https://github.com/basiav/RestaurantApp/blob/main/demo/user-management.png" data-canonical-src="https://github.com/basiav/RestaurantApp/blob/main/demo/user-management.png" width="80%" />
 
 - Restaurant Manager - add new dishes to the menu
 
