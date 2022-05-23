@@ -1,5 +1,5 @@
 # RestaurantApp
-Angular application for managing take away ordering.
+Angular & MongoDB application for managing take away ordering.
 
 User roles:
 - Guest User - "window shopping", scrolling through the menu
